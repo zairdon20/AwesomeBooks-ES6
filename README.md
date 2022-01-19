@@ -1,60 +1,54 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Awesome Books
+# AwesomeBooks
 
-In this project we created a plain HTMl website and added JavaScript for removing and adding books to the library and loading books from the localStorage.
-We then made the website a single page application using JavaScript and CSS.  
+This is a wesbite where you can add and remove books.
+
+![screenshot](./assets/awesome.PNG)
+
+This project is my portfolio.
 
 ## Built With
 
-- HTMl, CSS and JavaScript
+- Javascript
+- HTML
+- CSS
 
-## Live Demo
-
-[Live Demo Link](https://asanchy.github.io/Awesome_Books/)
+[Live Demo]()
 
 ## Getting Started
 
-To run this application please follow these steps:
+To get the content of this project locally you need to run this command in your terminal:
 
-1.Clone the repo onto you local machine
-  - to clone click on the green 'Code' button and copy the HTTPS link.
-  -using 'git clone <link>' command clone the repository on your local machine.
-2.Open the project using your browser
-  -you can either open the html file from the folder where you cloned this repository to see the live preview of this project or you can open it from Visual Studio Code.
-  -if you have  Visual Studio Code (Install it if you don't have it please) install Live Server from the extensions market place and then right click on the index.html file and click option 1 (which says : Open with Live Server). It will open up in your default browser.
+- git clone your https://github.com/pepedropo1/AwesomeBooksES6.git
+- cd project My-Portfolio
+- open the index.html file to see project running.
 
+### Deployment
 
+This project is deployed on a github page on the link below:
+
+- git@github.com:pepedropo1/AwesomeBooksES6.git
 
 ## Authors
-Adorn Choga:
 
-- GitHub: [@asanchy](https://github.com/Asanchy)
-- Twitter: [@adorn_choga](https://twitter.com/adorn_choga)
-- LinkedIn: [adorn-choga](https://www.linkedin.com/in/adorn-choga-076024201/)
+👤 **Matovu Farid Nkoba**
 
-Josphat Nkonde:
+- GitHub: [@matovu-farid](https://github.com/matovu-farid)
+- Twitter: [@matovu100](https://twitter.com/matovu100)
+- LinkedIn: [matovu-farid](https://www.linkedin.com/in/matovu-farid-48b80257)
 
-- GitHub: [zairdon20](https://github.com/githubhandle)
-- Twitter: [@Josphatnkonde1](https://twitter.com/twitterhandle)
-- LinkedIn: [Josphat Nkonde](https://linkedin.com/in/linkedinhandle)
+👤 **Josphat Nkonde**
 
-## 🤝 Contributing
+- GitHub: [@zairdon20](https://github.com/zairdon20)
+- Twitter: [@Josphat1](https://twitter.com/Josphat1/)
+- LinkedIn: [zairdon](https://www.linkedin.com/in/zairdon/)
 
-Contributions, issues, and feature requests are welcome!
+👤 **Pedro Guerreiro**
 
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
+- GitHub: [@pepedropo1](https://github.com/pepedropo1)
+- Twitter: [@pepedrop01](https://twitter.com/pepedrop01/)
+- LinkedIn: [pepedropo1](https://www.linkedin.com/in/pepedropo1/)
 
 ## 📝 License
 
